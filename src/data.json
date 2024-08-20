@@ -1,0 +1,40 @@
+{
+  "db": [
+    {
+      "id": "1",
+      "title": "Arjuna",
+      "datetime": "August 20, 2024 09:00:00 AM",
+      "body": "Duty before all else, but my heart is troubled."
+    },
+    {
+      "id": "2",
+      "title": "Krishna",
+      "datetime": "August 20, 2024 09:05:00 AM",
+      "body": "Inaction in action, that is true wisdom."
+    },
+    {
+      "id": "3",
+      "title": "Draupadi",
+      "datetime": "August 20, 2024 09:10:00 AM",
+      "body": "Justice will prevail, but the cost is heavy."
+    },
+    {
+      "id": "4",
+      "title": "Yudhishthira",
+      "datetime": "August 20, 2024 09:15:00 AM",
+      "body": "Truth is my path, though it is fraught with suffering."
+    },
+    {
+      "id": "5",
+      "title": "Bhishma",
+      "datetime": "August 20, 2024 1:32:32 PM",
+      "body": "I am bound by my vows, yet the burden is great.yes"
+    },
+    {
+      "id": "6",
+      "title": "karna",
+      "datetime": "August 20, 2024 2:34:24 PM",
+      "body": "to become the best archer in the world and be loyal to my friend who helped me when i was low and gave me my own kingdom"
+    }
+  ]
+}
